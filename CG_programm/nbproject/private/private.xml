@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/ComplexObject.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Plane.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Triangle.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Transform.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/PrimitiveObject.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/RayTracing.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Camera.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/ColorCG.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Interpolation.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Light.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Sphere.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/CG_editor.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Ray.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Quaternion.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Torus.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Edge.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Source.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Model.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Solver.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Vector4.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Launcher.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Matrix.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Input.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/MainFrame.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/ImageCG.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/OBJModel.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/RenderSceneTriangle.java</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/new.ucls</file>
+            <file>file:/C:/Users/Ivan/Documents/NetBeansProjects/JavaApplication1/src/CG_editor/Vertex.java</file>
+        </group>
+    </open-files>
+</project-private>

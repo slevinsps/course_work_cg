@@ -1,0 +1,298 @@
+# Blender MTL File: 'None'
+# Material Count: 33
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_NONE
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_bricks.jpg.010
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.012
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.013
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.014
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.015
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.016
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.017
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.018
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.019
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.020
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.021
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.022
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.023
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.024
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.025
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.026
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.027
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.028
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.029
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.030
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.031
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.032
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.033
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.034
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.035
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.036
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.037
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.038
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.039
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.040
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
+
+newmtl None_bricks.jpg.041
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd bricks.jpg
